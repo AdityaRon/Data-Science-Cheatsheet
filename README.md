@@ -22,7 +22,7 @@ Topics covered (some more in-depth than others) include:
 
 ## Links
 * [Data Science Cheatsheet 2.0 PDF](https://github.com/aaronwangy/Data-Science-Cheatsheet/blob/main/Data_Science_Cheatsheet.pdf)
-* [Generative vs Discriminative Models] (https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3)
+* [Generative vs Discriminative Models](https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3)
 
 ## Screenshots
 ![](images/page1-1.png?raw=true)
